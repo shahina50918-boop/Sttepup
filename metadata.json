@@ -1,0 +1,7 @@
+{
+  "name": "ডিজিটাল টিচার - আটুলিয়া সোহরাবিয়া দাখিল মাদ্রাসা",
+  "description": "An interactive AI-powered virtual teacher for Atulia Sohrabia Dakhil Madrasah students, providing academic help in Bengali, Arabic, Quran, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
